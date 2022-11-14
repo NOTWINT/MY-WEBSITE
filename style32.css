@@ -1,0 +1,58 @@
+p {
+background: linear-gradient(56deg, blue, pink, purple, red, black);
+ padding: 5px;
+ color: ghostwhite;
+ text-align:center;
+bottom: center;
+font-family: cursive;
+border-radius: 50px;
+font-size: 36px;
+font-style: red;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5cm;
+  bottom: center;
+  vertical-align: center;
+}
+   
+}
+.lyut {
+  bottom: center
+  vertical-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5cm;
+  
+}
+h3 {
+  background: linear-gradient(-44deg, blue, violet, orange, yellow, black);
+ padding: 5px;
+ color: ghostwhite;
+ text-align:center;
+bottom: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-radius: 50px;
+font-size: 36px;
+font-style: purple;
+font-family: cursive;
+font-style: black
+}
+
+.fonta {
+ 
+ padding: 5px;
+ color: ghostwhite;
+ text-align:center;
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+font-style: purple;
+font-family: cursive;
+font-style: black;
+
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+width: 5cm
+ }
